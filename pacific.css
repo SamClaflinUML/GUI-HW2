@@ -24,7 +24,7 @@ body {
 
 	/* Colors */
 	color: #666666;
-	background-image: url("../assets/ptrbackground.jpg");
+	background-image: url("assets/ptrbackground.jpg");
 	background-color: var(--blue);
 
 	/* Font Configuration */
@@ -128,7 +128,7 @@ header {
 	grid-column: 1 / span 2;
 
 	/* Colors */
-	background-image: url("../assets//sunset.jpg");
+	background-image: url("assets//sunset.jpg");
 	background-repeat: no-repeat;
 	background-position: right;
 	background-color: var(--dark-blue);
@@ -199,7 +199,7 @@ footer {
 
 #content ul > li::before {
 	/* Change the Bullet to marker.gif */
-	content: url("../assets/marker.gif");
+	content: url("assets/marker.gif");
 
 	/* Margin */
 	margin-right: 10px;
